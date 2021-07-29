@@ -3,6 +3,7 @@ class First
 {
 	public static void main(String args[])
 	{
-		system.out.println("Hello Git");	
+		System.out.println("Hello First Git");
+		System.out.println("First git tracked); 	
 	}
 }
